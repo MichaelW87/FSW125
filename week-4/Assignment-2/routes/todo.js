@@ -26,7 +26,7 @@ const todoList = [
         _id: uuidv4()
     },
     {
-        name: "Go to storage",
+        name: "Check  Loan status",
         desc: "Take packed boxes to storage.",
         time: '45 minutes',
         isCompleted: false,
